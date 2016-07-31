@@ -60,7 +60,7 @@ A tool for applying XSLT stylesheets to XML documents. Download xsltproc from ht
 2. Install prerequired tools
  ```bash
     $ sudo apt-get insall gcc g++ m4 sed lib64ncurses5-dev libssl-dev unixodbc-dev
-    $ sudo apt-get install openssl wx-common wx3.0-headers libwxgtk3.0-dev xsltproc fop libxml2-dev
+    $ sudo apt-get install openssl wx-common wx3.0-headers libwxgtk3.0-dev xsltproc fop libxml2-dev libxml2-utils
  ```
 3. Uncompress the source code file and compile the code
   ```bash

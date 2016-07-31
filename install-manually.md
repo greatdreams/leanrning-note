@@ -58,9 +58,10 @@ A tool for applying XSLT stylesheets to XML documents. Download xsltproc from ht
 [https://github.com/erlang/otp/releases](https://github.com/erlang/otp/releases)
 
 2. Install prerequired tools
-
-
-
+ ```bash
+    $ sudo apt-get insall gcc g++ m4 sed 
+    $ sudo apt-get install openssl wx-common
+ ```
 
 
 

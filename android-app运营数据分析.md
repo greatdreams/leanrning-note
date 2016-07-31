@@ -18,6 +18,7 @@
 
 3.Flurry [https://developer.yahoo.com/analytics/features.html](https://developer.yahoo.com/analytics/features.html)
 
+4.友盟 [http://mobile.umeng.com/](http://mobile.umeng.com/)
 
 
 

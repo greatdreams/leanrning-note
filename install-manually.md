@@ -21,6 +21,11 @@
 ncurses, termcap, or termlib -- The development headers and libraries are needed, often known as ncurses-devel. Use --without-termcap to build without any of these libraries. Note that in this case only the old shell (without any line editing) can be used.
 * sed -- Stream Editor for basic text transformation.
 
+#### Optional Utilities
+
+Some applications are automatically skipped if the dependencies aren't met. Here is a list of utilities needed for those applications. You will also find the utilities needed for building the documentation.
+
+
 #### Steps
 
 1.Download source code of erlang/otp 19

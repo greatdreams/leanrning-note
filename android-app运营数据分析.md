@@ -14,7 +14,7 @@
 
 统计维度：渠道分布，版本分布，渠道来源细分（新用户、启动用户、启动次数）
 
-
+3. Flurry [https://developer.yahoo.com/analytics/features.html](https://developer.yahoo.com/analytics/features.html)
 
 
 

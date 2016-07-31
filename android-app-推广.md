@@ -16,3 +16,9 @@
       * 移动搜索引擎营销
       * 移动互联网广告平台精准投放
       * 安卓APP线下预装&校园推广
+
+
+2. APP推广渠道十种精华方法
+   [http://jingyan.baidu.com/article/ce436649fe6a533773afd327.html](http://jingyan.baidu.com/article/ce436649fe6a533773afd327.html)
+
+

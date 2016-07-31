@@ -6,4 +6,5 @@
 * [Erlang](erlang.md)
     * [Install Manual](install-manually.md)
 * [Elixir](elixir.md)
+* [Rust](rust.md)
 

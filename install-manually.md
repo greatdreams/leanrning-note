@@ -55,7 +55,7 @@ A tool for applying XSLT stylesheets to XML documents. Download xsltproc from ht
 #### Steps
 
 1. Download source code of erlang/otp 19
-[https://github.com/erlang/otp/releases](https://github.com/erlang/otp/releases)
+[http://www.erlang.org/downloads](http://www.erlang.org/downloads)
 
 2. Install prerequired tools
  ```bash

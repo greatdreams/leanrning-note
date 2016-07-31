@@ -64,10 +64,9 @@ A tool for applying XSLT stylesheets to XML documents. Download xsltproc from ht
  ```
 3. Uncompress the source code file and compile the code
   ```bash
-   $ tar -xvf ${download_dir}/otp-OTP-19.tar.gz 
-   $ cd otp-OTP-19
-   $
+   $ tar -xvf ${download_dir}/otp_src_19.0.tar.gz 
+   $ cd otp_src_19.0
+   $ ./configure --prefix=~/softwares/otp_19.0
   ```
-
 
 

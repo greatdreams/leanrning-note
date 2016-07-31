@@ -18,6 +18,6 @@
 
 Uninstalling Rust is as easy as installing it. On Linux or Mac, run the uninstall script:
 
-```sh
+```bash
     $ sudo /usr/local/lib/rustlib/uninstall.sh
 ```

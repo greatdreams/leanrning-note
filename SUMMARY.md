@@ -7,4 +7,5 @@
     * [Install Manual](install-manually.md)
 * [Elixir](elixir.md)
 * [Rust](rust.md)
+    * [Installation](installation.md)
 

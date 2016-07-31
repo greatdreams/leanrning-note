@@ -27,5 +27,5 @@
 
 6.酷传 [http://www.coolchuan.com/](http://www.coolchuan.com/)
 
-
+7.魔方 [http://www.imofan.com/](http://www.imofan.com/)
 

@@ -67,6 +67,8 @@ A tool for applying XSLT stylesheets to XML documents. Download xsltproc from ht
    $ tar -xvf ${download_dir}/otp_src_19.0.tar.gz 
    $ cd otp_src_19.0
    $ ./configure --prefix=~/softwares/otp_19.0
+   $ make
+   $ make install
   ```
 
 

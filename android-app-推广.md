@@ -28,8 +28,8 @@
 
  渠道分类： 手机系统官方商店，手机厂商商店，运营商商店，第三方应用商店，下载站等等
 
-
-
+4. 国内App推广终极37个方法 
+   [http://www.chinaz.com/manage/2015/0128/381296.shtml](http://www.chinaz.com/manage/2015/0128/381296.shtml)
 
 
 

@@ -62,7 +62,12 @@ A tool for applying XSLT stylesheets to XML documents. Download xsltproc from ht
     $ sudo apt-get insall gcc g++ m4 sed 
     $ sudo apt-get install openssl wx-common wx3.0-headers xsltproc fop
  ```
-
+3. Uncompress the source code file and compile the code
+  ```bash
+   $ tar -xvf ${download_dir}/otp-OTP-19.tar.gz 
+   $ cd otp-OTP-19
+   $
+  ```
 
 
 

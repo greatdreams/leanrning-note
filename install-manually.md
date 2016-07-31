@@ -76,5 +76,6 @@ A tool for applying XSLT stylesheets to XML documents. Download xsltproc from ht
      $ emacs -fs ~/.bashrc  
     ```
     export $ERLANG_HOME=${INSTALLATION_DIR}
+
     export PATH=$PATH:$ERLANG_HOME/bin
 

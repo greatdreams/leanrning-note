@@ -19,20 +19,20 @@
 
 
 
-  2.APP推广渠道十种精华方法
+2.APP推广渠道十种精华方法
   [http:\/\/jingyan.baidu.com\/article\/ce436649fe6a533773afd327.html](http://jingyan.baidu.com/article/ce436649fe6a533773afd327.html)
 
-  * APP渠道推广方法一：应用推荐网站应用商店
+* APP渠道推广方法一：应用推荐网站应用商店
 
-    主要是通过开发者平台上传应用，然而平台主要包含有硬件开发商\(APPStore，Ovi\),软件开发商\(Android Market，Windows Mobile Marketplace\)，网络运营商\(移动 MM，天翼空间，沃商店\)，独立商店\(安卓市场，OpenFeint\)，以及一些 B2C 应用平台\(Amazon AndroidAPP Store\)等等，在国内市场中，主要由硬件开发商商店、网络运营商、独立商店等支撑着，其中,硬件开发商商店：联想应用商店、智汇于\(华为\);网络运营 商：移动 MM、电信天翼空间、联通沃商店;独立商店：安卓市场、安智市场、机锋市场、爱米软件商店、优亿市场、掌上应用汇、安卓市场、安智市场、开齐商店、N 多市场、安卓星空、安丰下载、力趣安卓市场等。
+  主要是通过开发者平台上传应用，然而平台主要包含有硬件开发商\(APPStore，Ovi\),软件开发商\(Android Market，Windows Mobile Marketplace\)，网络运营商\(移动 MM，天翼空间，沃商店\)，独立商店\(安卓市场，OpenFeint\)，以及一些 B2C 应用平台\(Amazon AndroidAPP Store\)等等，在国内市场中，主要由硬件开发商商店、网络运营商、独立商店等支撑着，其中,硬件开发商商店：联想应用商店、智汇于\(华为\);网络运营 商：移动 MM、电信天翼空间、联通沃商店;独立商店：安卓市场、安智市场、机锋市场、爱米软件商店、优亿市场、掌上应用汇、安卓市场、安智市场、开齐商店、N 多市场、安卓星空、安丰下载、力趣安卓市场等。
 
-
-  3. App推广中，我是怎么铺渠道的
+ 
+3.App推广中，我是怎么铺渠道的
   [http:\/\/www.woshipm.com\/operate\/135838.html](http://www.woshipm.com/operate/135838.html)
 
   渠道分类： 手机系统官方商店，手机厂商商店，运营商商店，第三方应用商店，下载站等
 
-  国内App推广终极37个方法 
+ 4.国内App推广终极37个方法 
   [http:\/\/www.chinaz.com\/manage\/2015\/0128\/381296.shtml](http://www.chinaz.com/manage/2015/0128/381296.shtml)
 
 
